@@ -1,1 +1,5 @@
-write your sql statement in a single line in the problem1.sql file.
+insert into song 
+
+(title, artist) 
+
+VALUES ('Let it be', 'Beatles');
